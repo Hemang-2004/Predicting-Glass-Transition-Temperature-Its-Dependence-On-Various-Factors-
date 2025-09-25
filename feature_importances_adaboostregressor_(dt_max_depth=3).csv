@@ -1,0 +1,399 @@
+feature,importance
+molar_refractivity,0.3319970143361137
+branching_index,0.30480722205589944
+dens,0.11479188334325738
+mw,0.10119226261612495
+temperature,0.03015834584222504
+polymer_smiles_*OCCCCCC(=O)*,0.02020010329585996
+polymer_smiles_*C(F)(F)C(c1ccccc1)(F)*,0.013163787750307746
+mn,0.011367449523771488
+polymer_smiles_*C1C(C2)CCC2C1*,0.009406108754637937
+polymer_name_poly(e-caprolactone),0.00910302705758051
+polymer_name_poly(trifluoro styrene),0.007797382771768757
+polymer_name_poly(butylene succinate),0.005249112190764951
+polymer_name_polyether ether ketone,0.0049149273012560595
+polymer_name_poly(n-butyl glycidyl ether),0.004745054040566794
+polymer_smiles_*c1ccc(cc1)Oc2ccc(cc2)C(=O)c3ccc(cc3)O*,0.0038899602207489053
+dielectric_constant,0.0030069478008283874
+polymer_name_poly(2-methyl-2- adamantylmethacrylate),0.002956167349742408
+polymer_name_poly(4-methyl-2-pentyne),0.0028483562423491544
+solvent_name_carbon dioxide,0.002586007470704672
+polymer_name_poly (N-vinyl-2-pyrrolidone),0.002502174070101366
+polymer_smiles_*C(C)=C(C(C)C)*,0.002196040788887554
+polymer_smiles_*C(C)(C(=O)OC1(C)C2CC3CC(C2)CC1C3)C*,0.002031003664684729
+"polymer_name_poly(2,2'-(m-phenylene)-5,5'-bibenzimidazole)",0.0017086779034734371
+polymer_name_poly(norbornene),0.0016194890591645925
+polymer_smiles_*[Si](C)(C)O*,0.0007368270903741096
+polymer_name_polypropylene,0.0006332897908655975
+polymer_name_polydimethylsiloxane,0.0006186236641510254
+polymer_name_poly(2-dimethyl aminoethyl methacrylate),0.0005935196197081636
+solvent_formula_H2O,0.0005920366957781933
+polymer_smiles_*c1ccc(cc1)C(C)(C)c2ccc(cc2)Oc3ccc(cc3)S(=O)(=O)c4ccc(cc4)O*,0.0005053511920641468
+"polymer_name_polysulfone, poly(bisphenol-A sulfone)",0.0003124851355438631
+polymer_smiles_*c1cccc(c1)c2nc3ccc(cc3[nH]2)c4ccc5[nH]c(nc5c4)*,0.00027140649998654573
+polymer_smiles_*C([Cl])C*,0.0002678038038360079
+polymer_name_poly(vinyl chloride),0.0002447806466746939
+polymer_smiles_*N1C(=O)c2ccc(cc2C1=O)C(C(F)(F)F)(C(F)(F)F)c3ccc(C4=O)c(c3)C(=O)N4c5c(C)c(c(C)cc5(C))*,0.00023413294804931837
+polymer_smiles_*CC(C)(C(=O)OCCN(C)C)*,0.0002082634866290873
+polymer_name_poly(ethylene terephthalate),0.00016978696089341917
+polymer_smiles_*C(C)(C(=O)OC)C*,7.748108748994648e-05
+polymer_smiles_*C*,6.791189553617041e-05
+polymer_smiles_*C(C)C*,5.420242115899195e-05
+polymer_smiles_*C(F)(F)C*,4.839567271215446e-05
+polymer_smiles_*C(C)(C(=O)OCCCC)C*,4.216575841335095e-05
+polymer_smiles_*CC(O)*,4.0116062826133686e-05
+solvent_formula_CO2,2.7447378825865964e-05
+polymer_smiles_*C(C)=C([Si](C)(C)C)*,6.580848178690479e-06
+solvent_name_methane,5.750254098281006e-06
+polymer_smiles_*C(C(=O)OCCCCCCCCCCCCCCCCCCCCCC)C*,3.130210987883865e-06
+solvent_smiles_O=C=O,5.424398300989368e-09
+solvent_formula_C3H8,8.886541585308958e-17
+solvent_smiles_N#N,5.874965634803002e-17
+solvent_name_m-xylene,0.0
+solvent_formula_He,0.0
+solvent_name_hydrogen,0.0
+solvent_name_hexafluoroethane,0.0
+solvent_name_hydrogen sulfide,0.0
+solvent_formula_Kr,0.0
+solvent_formula_H2,0.0
+solvent_name_helium,0.0
+"solvent_name_isooctane, 2,2,4-trimethylpentane",0.0
+solvent_name_isopentane,0.0
+solvent_name_krypton,0.0
+solvent_formula_ClO2,0.0
+solvent_formula_H2S,0.0
+solvent_name_isobutanol,0.0
+"solvent_name_1-chloro-1,1-difluoroethane",0.0
+solvent_name_methanol,0.0
+solvent_name_neon,0.0
+solvent_name_octane,0.0
+solvent_name_octafluoropropane,0.0
+solvent_name_nonane,0.0
+solvent_name_nitromethane,0.0
+solvent_name_nitrogen,0.0
+solvent_name_nitrobenzene,0.0
+solvent_name_neopentane,0.0
+solvent_name_n-pentane,0.0
+solvent_name_ethylbenzene,0.0
+solvent_name_n-hexane,0.0
+solvent_formula_CO,0.0
+solvent_name_n-heptane,0.0
+solvent_name_n-butane,0.0
+solvent_name_methylethylketone,0.0
+solvent_formula_Cl2,0.0
+solvent_name_methylacetate,0.0
+solvent_formula_N2,0.0
+solvent_name_ethene,0.0
+solvent_name_ethyl acetate,0.0
+solvent_name_R22,0.0
+solvent_formula_Xe,0.0
+"solvent_name_1,1-difluoroethane",0.0
+"solvent_name_1,4-dioxane",0.0
+solvent_name_butyl acetate,0.0
+solvent_name_benzene,0.0
+solvent_name_argon,0.0
+solvent_name_acetylene,0.0
+solvent_name_acetone,0.0
+solvent_name_2-propanol,0.0
+solvent_name_carbon tetrachloride,0.0
+solvent_name_2-methylpropane,0.0
+solvent_name_2-butanol,0.0
+solvent_name_1`3-butadiene,0.0
+solvent_name_1-butanol,0.0
+solvent_name_1-propanol,0.0
+solvent_name_1-butene,0.0
+solvent_name_1-pentanol,0.0
+solvent_name_1-hexene,0.0
+solvent_name_carbon monoxide,0.0
+solvent_name_chlorine,0.0
+solvent_name_1-hexanol,0.0
+solvent_formula_PO(CH3)(OCH3)2,0.0
+solvent_name_ethanol,0.0
+solvent_name_ethane,0.0
+solvent_formula_N2O,0.0
+solvent_formula_Ne,0.0
+solvent_name_dinitrogen monoxide,0.0
+solvent_name_dimethyl methyl phosphonate,0.0
+solvent_name_dimethyl carbonate,0.0
+solvent_formula_O2,0.0
+solvent_name_diethyl ketone,0.0
+solvent_name_chlorine dioxide,0.0
+solvent_name_diethyl ether,0.0
+solvent_formula_SF6,0.0
+solvent_name_dichloromethane,0.0
+solvent_name_di-n-propyl ether,0.0
+solvent_name_cyclopentane,0.0
+solvent_name_oxygen,0.0
+solvent_formula_SO2,0.0
+solvent_name_chloroform,0.0
+solvent_name_cyclohexane,0.0
+solvent_name_xenon,0.0
+solvent_name_p-xylene,0.0
+solvent_smiles_ClCCl,0.0
+solvent_smiles_ClC(Cl)(Cl)Cl,0.0
+solvent_smiles_Cc1ccccc1,0.0
+solvent_smiles_Cc1cccc(C)c1,0.0
+solvent_smiles_Cc1ccc(C)cc1,0.0
+solvent_smiles_C[N+](=O)[O-],0.0
+solvent_smiles_COP(C)(=O)OC,0.0
+solvent_smiles_COC(C)=O,0.0
+solvent_smiles_COC(=O)OC,0.0
+solvent_smiles_CO,0.0
+solvent_smiles_CCc1ccccc1,0.0
+solvent_smiles_CCOCC,0.0
+solvent_smiles_CCOC(C)=O,0.0
+solvent_smiles_CCO,0.0
+solvent_smiles_CCCOCCC,0.0
+solvent_smiles_CCCOC(C)=O,0.0
+solvent_smiles_CCCO,0.0
+solvent_smiles_CCCCOC(C)=O,0.0
+solvent_smiles_CCCCO,0.0
+solvent_smiles_CCCCCO,0.0
+solvent_smiles_ClC(Cl)Cl,0.0
+solvent_smiles_ClCl,0.0
+solvent_smiles_CCCCCCCCC,0.0
+solvent_smiles_FC(F)(F)C(F)(F)C(F)(F)F,0.0
+solvent_smiles_[Xe],0.0
+solvent_smiles_[O][Cl+][O-],0.0
+solvent_smiles_[Ne],0.0
+solvent_smiles_[Kr],0.0
+solvent_smiles_[He],0.0
+solvent_smiles_[H][H],0.0
+solvent_smiles_[C-]#[O+],0.0
+solvent_smiles_[Ar],0.0
+solvent_smiles_S,0.0
+solvent_smiles_O=[N+]([O-])c1ccccc1,0.0
+solvent_smiles_O=S=O,0.0
+solvent_smiles_O=O,0.0
+solvent_smiles_O,0.0
+solvent_smiles_N#[N+][O-],0.0
+solvent_smiles_FS(F)(F)(F)(F)F,0.0
+solvent_smiles_FCC(F)(F)F,0.0
+solvent_smiles_FC(F)Cl,0.0
+solvent_smiles_FC(F)(F)F,0.0
+solvent_smiles_FC(F)(F)C(F)(F)F,0.0
+solvent_smiles_CCCCCCO,0.0
+solvent_smiles_CCCCCCCC,0.0
+solvent_name_propane,0.0
+solvent_smiles_C=CC=C,0.0
+solvent_smiles_C=C(F)F,0.0
+solvent_smiles_C=C,0.0
+solvent_smiles_C1COCCO1,0.0
+solvent_smiles_C1CCOC1,0.0
+solvent_smiles_C1CCCCC1,0.0
+solvent_smiles_C1CCCC1,0.0
+solvent_smiles_C#C,0.0
+solvent_formula_CHClF2,0.0
+solvent_name_water,0.0
+solvent_name_vinylidene fluoride,0.0
+solvent_name_vinyl acetate,0.0
+solvent_name_toluene,0.0
+solvent_name_tetrahydrofuran,0.0
+solvent_name_tetrafluoromethane,0.0
+solvent_name_tert-butyl alcohol,0.0
+solvent_name_sulphur dioxide,0.0
+solvent_name_sulfur hexafluoride,0.0
+solvent_name_propylacetate,0.0
+solvent_name_propene,0.0
+solvent_smiles_C=CC,0.0
+solvent_smiles_C=CCC,0.0
+solvent_smiles_CCCCCCC,0.0
+solvent_smiles_C=CCCCC,0.0
+solvent_smiles_CCCCCC,0.0
+solvent_smiles_CCCCC,0.0
+solvent_smiles_CCCC,0.0
+solvent_smiles_CCC(C)O,0.0
+solvent_smiles_CCC(C)C,0.0
+solvent_smiles_CCC(C)=O,0.0
+solvent_smiles_CCC(=O)CC,0.0
+solvent_smiles_CCC,0.0
+solvent_smiles_CC(F)F,0.0
+solvent_smiles_CC(F)(F)Cl,0.0
+solvent_smiles_CC(C)O,0.0
+solvent_smiles_CC(C)CO,0.0
+solvent_smiles_CC(C)CC(C)(C)C,0.0
+solvent_smiles_CC(C)C,0.0
+solvent_smiles_CC(C)=O,0.0
+solvent_smiles_CC(C)(C)O,0.0
+solvent_smiles_CC(C)(C)C,0.0
+solvent_smiles_CC,0.0
+solvent_smiles_C=COC(C)=O,0.0
+solvent_formula_CHF2CH3,0.0
+solvent_formula_C6H5CH3,0.0
+solvent_formula_CHCl3,0.0
+polymer_smiles_*C1[C@@H]2CC([Si](OC)(OC)OC)[C@@H](C2)C1*,0.0
+polymer_name_polyisoprene,0.0
+polymer_name_polyisobutylene,0.0
+polymer_name_polyethylene,0.0
+"polymer_name_polyethersulfone, poly(oxy-1,4-phenylenesulfonyl-1,4-phenylene)",0.0
+polymer_name_polychloroprene,0.0
+"polymer_name_polycarbonate, poly(bisphenol-A carbonate)",0.0
+polymer_name_poly[1-phenyl-2-[p-(trimethylsilyl)phenyl]acetylene],0.0
+polymer_name_poly[1-phenyl-2-(p-tert-butylphenyl)acetylene,0.0
+polymer_name_poly(vinyltrimethyl silane),0.0
+polymer_name_poly(vinylidene fluoride),0.0
+polymer_name_poly(vinyl methyl ether),0.0
+polymer_name_poly(vinyl benzoate),0.0
+polymer_name_poly(vinyl alcohol),0.0
+polymer_name_poly(vinyl acetate),0.0
+polymer_name_poly(trimethylsilyl)propyne,0.0
+polymer_name_poly(trimethylgermyl)propyne,0.0
+polymer_name_poly(trimethyl silyl norbornene),0.0
+polymer_name_poly(propylene sebacate),0.0
+polymer_name_poly(propylene glycol),0.0
+"polymer_name_polyphenylenesulfone, biphenol polysulfone",0.0
+polymer_name_polystyrene,0.0
+polymer_name_polytetrafluoroethylene,0.0
+polymer_smiles_*C(C)C(=O)O*,0.0
+polymer_smiles_*C1[C@@H]2CC([Si](C)(C)C)[C@@H](C2)C1*,0.0
+polymer_smiles_*C1[C@@H]2CC(C[Si](OC)(OC)OC)[C@@H](C2)C1*,0.0
+polymer_smiles_*C1[C@@H]2CC(CC[Si](OC)(OC)OC)[C@@H](C2)C1*,0.0
+polymer_smiles_*C1C2C3C([Si](C)(C)C)([Si](C)(C)C)CC3C(C2)C1*,0.0
+polymer_smiles_*C(c1ccc([Si](C)(C)C)cc1)=C(c2ccccc2)*,0.0
+polymer_smiles_*C(c1ccc(C(C)(C)C)cc1)=C(c2ccccc2)*,0.0
+polymer_smiles_*C(N1C(=O)CCC1)C*,0.0
+polymer_smiles_*C(F)(F)*,0.0
+polymer_smiles_*C(C)=C(c1ccccc1)*,0.0
+polymer_smiles_*C(C(=O)OCC)C*,0.0
+polymer_smiles_*C(C)=C([Ge](C)(C)C)*,0.0
+polymer_smiles_*C(C)(C)C*,0.0
+polymer_smiles_*C(C)(C(=O)OCc1ccccc1)C*,0.0
+polymer_smiles_*C(C)(C(=O)OCCO)C*,0.0
+polymer_smiles_*C(C)(C(=O)OCCCCC)C*,0.0
+polymer_smiles_*C(C)(C(=O)OCC)C*,0.0
+polymer_smiles_*C(C)(C(=O)OC1(CC)C2CC3CC(C2)CC1C3)C*,0.0
+polymer_smiles_*C(C(=O)OCCCCCCCCCC)C*,0.0
+polymer_name_poly(p-vinylbenzyltrimethyl ammonium tetrafluoroborate),0.0
+polymer_name_poly(p-methoxystyrene),0.0
+polymer_name_poly(p-acetoxystyrene),0.0
+polymer_name_poly(1-vinylimidazole),0.0
+polymer_name_poly(5-methyltrimethoxysilyl-2-norbornene),0.0
+polymer_name_poly(5-ethyltrimethoxysilyl-2-norbornene),0.0
+polymer_name_poly(4-vinylpyridine),0.0
+"polymer_name_poly(4-methyl-2-methylene-1,3-dioxolane)",0.0
+"polymer_name_poly(3,3-bis(trimethylsilyl)tricyclononene-7)",0.0
+polymer_name_poly(2-vinylpyridine),0.0
+polymer_name_poly(2-ethyl-2-adamantylmethacrylate),0.0
+"polymer_name_poly(2,6-dimethyl-1,4-phenylene ether)",0.0
+polymer_name_poly(1-phenyl-1-propyne),0.0
+polymer_name_poly(5-triisopropoxysilyl-2-norbornene),0.0
+polymer_name_poly (2- hydroxyethylmethacrylate),0.0
+"polymer_name_Polyether-imide poly(bisphenol-A-co-4-nitrophthalicanhydride-co-1,3-phenylenediamine)",0.0
+polymer_name_6FDA-DAM,0.0
+"polymer_name_5(6)-amino-1-(4'-aminophenyl)-1,3,-trimethylindane",0.0
+"polymer_name_3,3'-dimethylbisphenol-Z polysulfone",0.0
+"polymer_name_3,3'-dimethyl bisphenol-A (bisphenol-C) polysulfone",0.0
+"polymer_name_3,3',5,5'-tetramethyl bisphenol-A polysulfone",0.0
+"polymer_name_3,3',5,5'-tetramethyl biphenol polysulfone",0.0
+polymer_name_poly(5-triethoxysilyl-2-norbornene),0.0
+polymer_name_poly(5-trimethoxysilyl-2-norbornene),0.0
+polymer_name_poly(n-pentyl methacrylate),0.0
+polymer_name_poly(ethyl methacrylate),0.0
+polymer_name_poly(methyl methacrylate),0.0
+polymer_name_poly(methyl acrylate),0.0
+polymer_name_poly(lactic acid),0.0
+polymer_name_poly(iso-propyl glycidil ether),0.0
+polymer_name_poly(ethylene vanillate),0.0
+polymer_name_poly(ethylene glycol),0.0
+polymer_name_poly(ethylene furanoate),0.0
+polymer_name_poly(ethyl vinyl ether),0.0
+polymer_name_poly(ethyl glycidyl ether),0.0
+polymer_name_poly(5-tripropoxysilyl-2-norbornene),0.0
+polymer_name_poly(ethyl acrylate),0.0
+polymer_name_poly(decyl acrylate),0.0
+polymer_name_poly(butyl methacrylate),0.0
+polymer_name_poly(benzyl methacrylate),0.0
+polymer_name_poly(behenyl acrylate),0.0
+polymer_name_poly(allyl glycidil ether),0.0
+polymer_name_poly(acrylic acid),0.0
+polymer_name_poly(5-tris(2-methoxyethoxy)-2-norbornene),0.0
+polymer_smiles_*C1[C@@H]2CC([Si](OC(C)C)(OC(C)C)OC(C)C)[C@@H](C2)C1*,0.0
+polymer_smiles_*C1[C@@H]2CC([Si](OCC)(OCC)OCC)[C@@H](C2)C1*,0.0
+solvent_formula_CH4,0.0
+polymer_smiles_*C1[C@@H]2CC([Si](OCCC)(OCCC)OCCC)[C@@H](C2)C1*,0.0
+solvent_formula_C6H13OH,0.0
+solvent_formula_C6H12O2,0.0
+solvent_formula_C6H12,0.0
+solvent_formula_C5H12,0.0
+solvent_formula_C5H11OH,0.0
+solvent_formula_C5H10,0.0
+solvent_formula_C4H9OH,0.0
+solvent_formula_C4H8O2,0.0
+solvent_formula_C4H8O,0.0
+solvent_formula_C4H8,0.0
+solvent_formula_C4H6,0.0
+solvent_formula_C4H10,0.0
+solvent_formula_C3H7OH,0.0
+solvent_formula_C3H7OC3H7,0.0
+solvent_formula_C3H6,0.0
+solvent_formula_C3F8,0.0
+solvent_formula_C2H6,0.0
+solvent_formula_C2H5OH,0.0
+solvent_formula_C2H5OC2H5,0.0
+solvent_formula_C6H14,0.0
+solvent_formula_C6H4(CH3)2,0.0
+solvent_formula_C6H5C2H5,0.0
+solvent_formula_CH2Cl2,0.0
+solvent_formula_CH3OH,0.0
+solvent_formula_CH3OCOOCH3,0.0
+solvent_formula_CH3NO2,0.0
+solvent_formula_CH3COOCH3,0.0
+solvent_formula_CH3COOC3H7,0.0
+solvent_formula_CH3COOC2H5,0.0
+solvent_formula_CH3COCH3,0.0
+solvent_formula_CH3COC2H5,0.0
+solvent_formula_CH2CF2,0.0
+solvent_formula_C6H5NO2,0.0
+solvent_formula_CF4,0.0
+solvent_formula_CF3CH2F,0.0
+solvent_formula_CClF2CH3,0.0
+solvent_formula_CCl4,0.0
+solvent_formula_C9H20,0.0
+solvent_formula_C8H18,0.0
+solvent_formula_C7H16,0.0
+solvent_formula_C6H6,0.0
+solvent_formula_C2H5COC2H5,0.0
+solvent_formula_C2H4,0.0
+solvent_formula_C2H2,0.0
+polymer_smiles_*CC(OC)*,0.0
+polymer_smiles_*CC(c1ccncc1)*,0.0
+polymer_smiles_*CC(c1ccccn1)*,0.0
+polymer_smiles_*CC(c1ccccc1)*,0.0
+polymer_smiles_*CC(c1ccc(cc1)OC)*,0.0
+polymer_smiles_*CC(c1ccc(cc1)OC(=O)C)*,0.0
+polymer_smiles_*CC(c1ccc(cc1)C[N+](C)(C)C)*.[B-](F)(F)(F)F,0.0
+polymer_smiles_*CC([Si](C)(C)C)*,0.0
+polymer_smiles_*CC(OCC)*,0.0
+polymer_smiles_*CC(OC(=O)c1ccccc1)*,0.0
+polymer_smiles_*CC1(OC(C)CO1)*,0.0
+polymer_smiles_*CC(OC(=O)C)*,0.0
+polymer_smiles_*CC(COCCCC)O*,0.0
+polymer_smiles_*CC(COCC=C)O*,0.0
+polymer_smiles_*CC(COCC)O*,0.0
+polymer_smiles_*CC(COC(C)C)O*,0.0
+polymer_smiles_*CC(C(=O)OC)*,0.0
+polymer_smiles_*CC(C(=O)O)*,0.0
+polymer_smiles_*C1[C@@H]2CC([Si](OCCOC)(OCCOC)OCCOC)[C@@H](C2)C1*,0.0
+polymer_smiles_*CC(n1cn(cc1))*,0.0
+polymer_smiles_*CC=C(C)C*,0.0
+solvent_formula_C2F6,0.0
+polymer_smiles_*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc2c(C)cc(cc2(C))c3cc(C)c(c(C)c3)*,0.0
+solvent_formula_Ar,0.0
+polymer_smiles_*c1ccc2c(c1)C(C)(CC2(C)C)c1ccc(cc1)N3C(=O)c4ccc(cc4C3=O)C(=O)c5ccc(C6=O)c(c5)C(=O)N6*,0.0
+polymer_smiles_*c1ccc(cc1)S(=O)(=O)c2ccc(cc2)O*,0.0
+polymer_smiles_*c1ccc(cc1)C(C)(C)c2ccc(cc2)Oc3ccc(c4c3)C(=O)N(C4(=O))c5cccc(c5)N(C(=O)c6cc7)C(=O)c6cc7O*,0.0
+polymer_smiles_*c1cc(C)c(c(C)c1)O*,0.0
+polymer_smiles_*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc2ccc(cc2)c3ccc(cc3)*,0.0
+polymer_smiles_*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc2c(C)cc(cc2)C3(CCCCC3)c4cc(C)c(cc4)*,0.0
+polymer_smiles_*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc2c(C)cc(cc2)C(C)(C)c3cc(C)c(cc3)*,0.0
+polymer_smiles_*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc2c(C)cc(cc2(C))C(C)(C)c3cc(C)c(c(C)c3)*,0.0
+polymer_smiles_*CC=C([Cl])C*,0.0
+polymer_smiles_*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc2c(C)c(C)c(cc2(C))c3c(C)c(C)c(c(C)c3)*,0.0
+polymer_smiles_*Oc1ccc(cc1)C(C)(C)c2ccc(cc2)OC(=O)*,0.0
+polymer_smiles_*OCCCOC(=O)CCCCCCCCC(=O)*,0.0
+polymer_smiles_*OCC*,0.0
+polymer_smiles_*OC(C)C*,0.0
+polymer_smiles_*OC(=O)c1ccc(cc1)C(=O)OCC*,0.0
+polymer_smiles_*CCOc1c(OC)cc(cc1)C(=O)O*,0.0
+polymer_smiles_*CCOC(=O)c1ccc(o1)C(=O)O*,0.0
+solvent_smiles_c1ccccc1,0.0
